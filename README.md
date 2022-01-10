@@ -1,1 +1,2 @@
 # lora_slottedAloha
+The python scripts for each scenario are located in the scripts folder. They follow the naming convention used in the evaluation. The output data will be generated in the folder, which contains the script file.
